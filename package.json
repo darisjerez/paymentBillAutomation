@@ -1,0 +1,26 @@
+{
+  "name": "paymentBillAutomation",
+  "version": "1.0.0",
+  "description": "Automated system to edit and send your monthly bill to get paid at NTC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darisjerez/paymentBillAutomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darisjerez/paymentBillAutomation/issues"
+  },
+  "homepage": "https://github.com/darisjerez/paymentBillAutomation#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "exceljs": "^4.2.1"
+  }
+}
