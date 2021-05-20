@@ -1,0 +1,12 @@
+{
+    "newExcel": "",
+    "templateExcel": "",
+    "rowForDate": 0,
+    "cellForDate": 0,
+    "rowForBillNumber": 0,
+    "cellForBillNumber": 0,
+    "rowForConcept": 0,
+    "cellForConcept": 0,
+    "concept": ""
+
+}
